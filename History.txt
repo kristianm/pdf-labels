@@ -1,0 +1,19 @@
+== 0.2.0 / 2006-04-25
+
+* First published to Rubyforge
+
+== 0.3.0 / 2007-06-23
+
+* PDFLabels library packed for Ruport and general consumption
+
+== 1.0.1 / 2007-10-17
+
+* PDFLabels xml-mapping package is wrong in the vendor directory
+
+== 2.0
+
+* 
+
+== 2.0.1 / 2008-08-30
+
+* Label PDFs will not open properly if the PrintScaling attribute is set
